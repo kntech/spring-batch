@@ -8,6 +8,8 @@
 ### MongoDB 3.8
 ***
 ### Screenshots
-![Application] (https://drive.google.com/file/d/1YTSFrexkpwiO3PH273tPl8mR6KcktJgi/view?usp=share_link)
+Application Execution
+[spring-batch-employee.pdf](https://github.com/kntech/spring-batch/files/11468163/spring-batch-employee.pdf)
+
 
 

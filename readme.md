@@ -7,3 +7,6 @@
 ### Docker 20.10
 ### MongoDB 3.8
 
+![FolderStructure] (https://drive.google.com/file/d/1moHs9WMlqr-2LDUWQ380C01GG91-L1wU)
+
+
